@@ -3,3 +3,4 @@ Git is free software.
 now  i change the .txt file;
 now i change the file .
 now i add something in the new branch dev;
+Creating a new branch is quick & simple.
